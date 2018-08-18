@@ -1,0 +1,7 @@
+tags
+TAGS
+*.bak
+.dep/
+build/
+Fonts/
+Songs/
